@@ -39,7 +39,7 @@ const blockHeaderOrder = (headerOrder) => {
 module.exports =
   (
     { isModelLearningEnabled, onlyAnalyzeHeaders, sensitivity } = {
-      isModelLearningEnabled: false,
+      isModelLearningEnabled: true,
       onlyAnalyzeHeaders: [],
       sensitivity: 2,
     }
