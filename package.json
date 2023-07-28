@@ -1,6 +1,6 @@
 {
   "name": "express-header-blocker",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prohibit access for the particular header orders with auto training",
   "main": "index.js",
   "scripts": {
